@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="16" tileheight="16" infinite="1" nextlayerid="12" nextobjectid="1">
+ <tileset firstgid="1" source="dungeon.tsx"/>
+ <tileset firstgid="133" source=":/automap-tiles.tsx"/>
+ <layer id="1" name="input1_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AADAxAAAAMQABAPcrUAQ=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="8" name="input1_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AACAzADMAAgC7QYUnASw=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="2" name="input1_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AADAzAAAAMwABAPcrUAQ=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="3" name="input1_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AADA0AAAANAABAPcrUAQ=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="4" name="input1_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AADA1AAAANQABAPcrUAQ=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="5" name="input2_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AADCIAAAANQABAPcrUAQ=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="10" name="input1_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AACA0ADMAAgC7QYUnASw=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="9" name="input1_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AACA0ADQAAgC7QYUnASw=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="11" name="input1_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AACAzADQAAgC7QYUnASw=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="6" name="output1_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AADAzAAAANAABAPcrUAQ=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="7" name="output2_Ground" width="30" height="20" visible="0">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA20AACAzADEAAgC7QYUnASw=
+  </chunk>
+  </data>
+ </layer>
+</map>

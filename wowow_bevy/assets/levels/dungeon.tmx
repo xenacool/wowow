@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="16" tileheight="16" infinite="1" nextlayerid="9" nextobjectid="1">
+ <editorsettings>
+  <export target="00_rule_dungeon.tmx" format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="dungeon.tsx"/>
+ <tileset firstgid="133" source=":/automap-tiles.tsx"/>
+ <layer id="8" name="floor" width="30" height="20">
+  <data encoding="base64" compression="zstd">
+   <chunk x="0" y="0" width="16" height="16">
+   KLUv/WAAA+0FAHQDNQAAYDQAAAAzNWAxAAAAMjIzAACgNDQAAKAzMjI0MjE0MzExMjExMzIxNQAAwDMAAMA0NQAAoFCoYDdlONCCqRHjBhFABQRBoXIiomgujWmrAZMzxIPWcgi3EhacaEPiHLa+SAxLr/vOioU16AG+Gh2Yhg150jnloKk7uOH952kt7DG0Oyd7D5xIhqQreQ7uZigHHkyO8LeCeZeMxxDxAKf3s/QAeJzu0YNh7vnwP+DH7W+CHwc50bhbMg==
+  </chunk>
+  </data>
+ </layer>
+</map>
